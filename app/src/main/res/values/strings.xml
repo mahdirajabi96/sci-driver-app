@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sci-Driver</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="crash">Crash</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="WeatherAPI">33bdd961aa314ce298241541170308</string>
+    <string name="WeatherURL">http://api.worldweatheronline.com/premium/v1/weather.ashx</string>
+</resources>
